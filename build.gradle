@@ -41,7 +41,9 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile 'org.seleniumhq.selenium:selenium-java:3.8.1'
 
+    // To avoid compiler warnings about @API annotations in JUnit code.
     compile('org.apiguardian:apiguardian-api:1.0.0')
+
     compile('org.junit.platform:junit-platform-engine:1.1.0-M1')
     compile('org.junit.platform:junit-platform-launcher:1.1.0-M1')
     compile('org.junit.jupiter:junit-jupiter-api:5.1.0-M1')
