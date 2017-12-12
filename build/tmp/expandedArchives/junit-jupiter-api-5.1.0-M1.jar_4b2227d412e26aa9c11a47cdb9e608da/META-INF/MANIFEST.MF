@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: 9.0.1 (Oracle Corporation 9.0.1+11)
+Built-By: JUnit Team
+Build-Date: 2017-11-19
+Build-Time: 16:53:05.619+0100
+Build-Revision: 689f452b6a2492114e9e30baabe0b22215c881c5
+Specification-Title: junit-jupiter-api
+Specification-Version: 5.1.0
+Specification-Vendor: junit.org
+Implementation-Title: junit-jupiter-api
+Implementation-Version: 5.1.0-M1
+Implementation-Vendor: junit.org
+Automatic-Module-Name: org.junit.jupiter.api
+

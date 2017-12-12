@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+
+Name: Build-Info
+Build-Revision: 6e95a6684b
+Build-Time: 2017-12-01T18:33:54.468Z
+Build-User: alexei
+Selenium-Version: 3.8.1
+
