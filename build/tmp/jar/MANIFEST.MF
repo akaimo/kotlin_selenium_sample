@@ -1,3 +1,19 @@
 Manifest-Version: 1.0
+Class-Path: libs/kotlin-stdlib-1.2.0.jar libs/selenium-java-3.8.1.jar 
+ libs/apiguardian-api-1.0.0.jar libs/junit-platform-console-1.1.0-M1.j
+ ar libs/junit-platform-launcher-1.1.0-M1.jar libs/junit-jupiter-engin
+ e-5.1.0-M1.jar libs/junit-platform-engine-1.1.0-M1.jar libs/junit-jup
+ iter-api-5.1.0-M1.jar libs/annotations-13.0.jar libs/selenium-chrome-
+ driver-3.8.1.jar libs/selenium-edge-driver-3.8.1.jar libs/selenium-fi
+ refox-driver-3.8.1.jar libs/selenium-ie-driver-3.8.1.jar libs/seleniu
+ m-opera-driver-3.8.1.jar libs/selenium-safari-driver-3.8.1.jar libs/s
+ elenium-support-3.8.1.jar libs/selenium-remote-driver-3.8.1.jar libs/
+ selenium-api-3.8.1.jar libs/byte-buddy-1.7.5.jar libs/commons-exec-1.
+ 3.jar libs/httpclient-4.5.3.jar libs/commons-codec-1.10.jar libs/comm
+ ons-logging-1.2.jar libs/gson-2.8.2.jar libs/guava-23.0.jar libs/http
+ core-4.4.6.jar libs/junit-platform-commons-1.1.0-M1.jar libs/opentest
+ 4j-1.0.0.jar libs/jsr305-1.3.9.jar libs/error_prone_annotations-2.0.1
+ 8.jar libs/j2objc-annotations-1.1.jar libs/animal-sniffer-annotations
+ -1.14.jar
 Main-Class: code.example.HelloWorldKt
 
